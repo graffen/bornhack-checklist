@@ -21,7 +21,6 @@
 - [ ] Long network cable(s)
 - [ ] Plenty of short cables
 - [ ] Extension chords
-- [ ] Power
 
 ## Radio equipment & toys
 
@@ -35,7 +34,7 @@
 - [ ] Chargers for radios
 - [ ] Baofeng programming cable
 - [ ] Cellphone
-- [ ] Charger
+- [ ] Cell phone charger
 
 ### Ham radio
 - [ ] Icom 7300
@@ -55,7 +54,6 @@
 - [ ] Soldering iron
 - [ ] Measuring tape (for measuring out antennas)
 - [ ] Omnicharge power bank + charging adapter for Lenovo plug
-- [ ] Solar panel?
 - [ ] USB-C + micro-USB cables for charging stuff
 
 ## Personal

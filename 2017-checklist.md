@@ -55,6 +55,7 @@
 - [ ] Measuring tape (for measuring out antennas)
 - [ ] Omnicharge power bank + charging adapter for Lenovo plug
 - [ ] USB-C + micro-USB cables for charging stuff
+- [ ] Sticky tape
 
 ## Personal
 - [ ] Water bottle

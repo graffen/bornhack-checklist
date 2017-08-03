@@ -20,7 +20,7 @@
 - [ ] Switches
 - [ ] Long network cable(s)
 - [ ] Plenty of short cables
-- [ ] Extension chords
+- [ ] Extension cords (with plenty of sockets)
 
 ## Radio equipment & toys
 

@@ -43,7 +43,7 @@
 - [ ] USB cable
 - [ ] Fibreglass fishing pole, 6 or 10m
 - [ ] 4:1 UNUN
-- [ ] 9:1 Balun? Useful if we build a full dipole antenna
+- [ ] 9:1 Balun? Useful for "random-wire antennas"
 - [ ] Wire to make antennas and counterpoises (0.75mm²)
 - [ ] Antenna cable (RG58 or better)
 - [ ] Extra PL259 plugs

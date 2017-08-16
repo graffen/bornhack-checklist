@@ -76,3 +76,6 @@
 
 ## Optional stuff
 - [ ] Solar panel to charge Omnicharge
+
+## Other stuff for the camp
+- [ ] Hot sauces

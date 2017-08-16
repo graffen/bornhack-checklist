@@ -56,6 +56,7 @@
 - [ ] Omnicharge power bank + charging adapter for Lenovo plug
 - [ ] USB-C + micro-USB cables for charging stuff
 - [ ] Sticky tape / Gaffa
+- [ ] Passport
 
 ## Personal
 - [ ] Water bottle
